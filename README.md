@@ -6,5 +6,5 @@ Alguns algoritmos utilizando java.
 #exercicio 2 (AppMediaComPeso.java) -  criar um algoritmo para calcular média de um aluno, só que com a primeira nota com 
 peso 3.5 e a segunda com peso 7.5, cuja soma dos pesos seja de fato 11; 
 
-#exercício 3 (AppOrdenador.java - criar um algoritmo para, após digitar e dar enter em 3 numeros, retornar os mesmos em ordem crescente, 
+#exercício 3 (AppOrdenador.java) - criar um algoritmo para, após digitar e dar enter em 3 numeros, retornar os mesmos em ordem crescente, 
 linha a linha;
