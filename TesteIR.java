@@ -20,20 +20,22 @@ public class TesteIR {
         } else if (salario >= 1903.99 && salario <= 2826.65) {
             aliquota = (0.075);
             deducao = 142.80;
-            IR = (salario * aliquota) - deducao;
+
         } else if (salario >= 2826.66 && salario <= 3751.05) {
             aliquota = (0.15);
             deducao = 354.8;
-            IR = (salario * aliquota) - deducao;
+
         } else if (salario >= 3751.06 && salario <= 4664.68) {
             aliquota = (0.225);
             deducao = 636.13;
-            IR = (salario * aliquota) - deducao;
+
         } else if (salario > 4664.68) {
             aliquota = (0.275);
             deducao = 869.36;
-            IR = (salario * aliquota) - deducao;
+
         }
+
+        IR = (salario * aliquota) - deducao;
 
         System.out.println("a alíquota de IR para a sua faixa salarial é de " + aliquota
                 + " e o valor a ser deduzido é de R$" + deducao);
