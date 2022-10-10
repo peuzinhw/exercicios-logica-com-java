@@ -9,4 +9,4 @@ peso 3.5 e a segunda com peso 7.5, cuja soma dos pesos seja de fato 11;
 #exercício 3 (AppOrdenador.java) - criar um algoritmo para, após digitar e dar enter em 3 numeros, retornar os mesmos em ordem crescente, 
 linha a linha;
 
-#exercício 4 (TesteIR.java) - criar um algoritmo para calcular o Imposto de renda com base apenas na tabela vigente.
+#exercício 4 (TesteIR.java) - criar um algoritmo para calcular o Imposto de renda retido na fonte, com base apenas na tabela vigente.
